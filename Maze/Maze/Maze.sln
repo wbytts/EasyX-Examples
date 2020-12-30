@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maze", "Maze.vcxproj", "{4F92F5AA-F35F-4C44-9581-8335ECACECD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F92F5AA-F35F-4C44-9581-8335ECACECD7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F92F5AA-F35F-4C44-9581-8335ECACECD7}.Debug|Win32.Build.0 = Debug|Win32
+		{4F92F5AA-F35F-4C44-9581-8335ECACECD7}.Debug|x64.ActiveCfg = Debug|Win32
+		{4F92F5AA-F35F-4C44-9581-8335ECACECD7}.Debug|x86.ActiveCfg = Debug|Win32
+		{4F92F5AA-F35F-4C44-9581-8335ECACECD7}.Debug|x86.Build.0 = Debug|Win32
+		{4F92F5AA-F35F-4C44-9581-8335ECACECD7}.Release|Win32.ActiveCfg = Release|Win32
+		{4F92F5AA-F35F-4C44-9581-8335ECACECD7}.Release|Win32.Build.0 = Release|Win32
+		{4F92F5AA-F35F-4C44-9581-8335ECACECD7}.Release|x64.ActiveCfg = Release|Win32
+		{4F92F5AA-F35F-4C44-9581-8335ECACECD7}.Release|x86.ActiveCfg = Release|Win32
+		{4F92F5AA-F35F-4C44-9581-8335ECACECD7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA9931E5-0F44-4D63-8718-F3B0A9628450}
+	EndGlobalSection
+EndGlobal

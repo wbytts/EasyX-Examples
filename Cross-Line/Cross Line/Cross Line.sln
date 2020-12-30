@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cross Line", "Cross Line.vcxproj", "{2DBB2D6A-0CD0-4317-82C9-D84B5E5D1596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBB2D6A-0CD0-4317-82C9-D84B5E5D1596}.Debug|x86.ActiveCfg = Debug|Win32
+		{2DBB2D6A-0CD0-4317-82C9-D84B5E5D1596}.Debug|x86.Build.0 = Debug|Win32
+		{2DBB2D6A-0CD0-4317-82C9-D84B5E5D1596}.Release|x86.ActiveCfg = Release|Win32
+		{2DBB2D6A-0CD0-4317-82C9-D84B5E5D1596}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2B1A32C-34F9-4CB5-B649-0D71053FD604}
+	EndGlobalSection
+EndGlobal
